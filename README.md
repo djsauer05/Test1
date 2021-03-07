@@ -2,11 +2,11 @@
 
 * learn git
    - [x] create repo
-   - [ ] add shh key
-   - [ ] adjust README.MD
-   - [ ] Clone to local
-   - [ ] Do a local commit
-   - [ ] Push to remote
+   - [x] add shh key
+   - [x] adjust README.MD
+   - [x] Clone to local
+   - [x] Do a local commit
+   - [] Push to remote
 
 
 Add additional tasks after
