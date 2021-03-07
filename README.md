@@ -6,7 +6,7 @@
    - [x] adjust README.MD
    - [x] Clone to local
    - [x] Do a local commit
-   - [] Push to remote
+   - [x] Push to remote
 
 
 Add additional tasks after
