@@ -1,7 +1,7 @@
 # This is for my learning
 
 * learn git
-   - [ ] create repo
+   - [x] create repo
    - [ ] add shh key
    - [ ] adjust README.MD
    - [ ] Clone to local
