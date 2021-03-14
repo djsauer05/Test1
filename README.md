@@ -11,7 +11,8 @@
 ![Squirrel](/squirrel.jpg)
 Add additional tasks after
 
-- [ ] Review git workflows
+- [ ] Review git workflow
+- [ ] Review project  ![Project](/project.md)
 
 ##GIT Workflows
 This is an overview of how git works
