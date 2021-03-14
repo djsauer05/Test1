@@ -11,7 +11,7 @@
 ![Squirrel](/squirrel.jpg)
 Add additional tasks after
 
--[ ] Review git workflows
+- [ ] Review git workflows
 
 ##GIT Workflows
 This is an overview of how git works
