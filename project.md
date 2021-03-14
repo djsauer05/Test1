@@ -17,4 +17,4 @@ to run copy heelo.py and run
 Does it meet the requirements?
 How could you make it better?
 
-see ![Code](/hello.py)
+see [Code](/hello.py)
