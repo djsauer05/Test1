@@ -11,4 +11,10 @@
  * Draft code
  * Test based on requirements
 
+to run copy heelo.py and run
+**python hello.py**
+
+Does it meet the requirements?
+How could you make it better?
+
 see ![Code](/hello.py)
