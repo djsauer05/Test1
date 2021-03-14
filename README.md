@@ -12,7 +12,7 @@
 Add additional tasks after
 
 - [ ] Review git workflow
-- [ ] Review project  ![Project](/project.md)
+- [ ] Review project  [Project](/project.md)
 
 ##GIT Workflows
 This is an overview of how git works
